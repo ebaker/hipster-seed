@@ -52,7 +52,7 @@ gulp build
 ```sh
 hipster-seed
 └── src
-    ├── 00-example           # example static content directory
+    └── 00-example           # example static content directory
         ├── app.coffee
         ├── index.jade
         └── style.styl
